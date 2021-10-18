@@ -1,0 +1,215 @@
+
+body{
+    background: linear-gradient(220deg, rgba(57,2,75,1) 0%, rgba(121,9,53,1) 54%, rgba(4,0,71,0.9248074229691877) 100%);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.main-container{
+    width: 80%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+   background-color:rgba(255, 255, 255, 0.014);
+   padding: 30px;
+}
+
+.container0{
+    justify-content: center;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+
+}
+.social-icons{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: black;
+}
+.social-icons a{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.icon{
+    flex-basis: 40px;
+    font-size: 20px;
+}
+.container0 div{
+background-color: rgba(0, 0, 0, 0.664);
+padding-top:  50px;
+padding-bottom: 10px;
+}
+
+.container-1{
+    display: flex;
+    justify-content: space-around;
+
+}
+ .container-1 div{
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.568);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.container-1-wrapper{
+background-color: rgba(1, 1, 2, 0.527);
+padding-top: 10px;
+margin-top: 20px;
+margin-bottom: 10px;
+}
+
+.container-1-box1{
+flex-basis: 200px;
+
+}
+.container-1-box2{
+flex-basis: 400px;
+
+}
+.container2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.container3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.container2 div{
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.568);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.container2-box{
+flex-basis: 180px;
+}
+
+.container2-wrapper{
+background-color: rgba(1, 1, 2, 0.527);
+padding-top: 20px;
+margin-top: 10px;
+}
+
+.container3-wrapper{
+background-color: rgba(1, 1, 2, 0.527);
+padding-top: 20px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.container3 div{
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.568);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.container3-box{
+flex-basis: 40%;
+}
+.contaner3-box ul{
+    background-color: none;
+   
+}
+.container3-box li{
+    font-size: 14px;
+    line-height: 150%;
+    padding-bottom: 20px;
+    list-style: none;
+}
+.skills-bar{
+  background-color: black;
+  border-radius: 13px;
+  padding: 5px;
+  margin: 0;
+  height: 5px;
+}
+.skills-bar div{
+background-color: blueviolet;
+  border-radius: 13px;
+  height: 5px;
+  padding: 5px;
+  margin-top: 0;
+}
+
+#python{
+width: 70%;
+}
+#node{
+width: 80%;
+}
+#react{
+    width: 60%;
+}
+#mypic{
+width: 150px;
+border-radius: 50%;
+}
+#role{
+    font-size: 14px;
+    font-weight: lighter;
+    text-transform: uppercase;
+    color: rgb(224, 233, 233);
+}
+#bracket{
+    color: blueviolet;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 2em;
+    line-height: 80%;
+    text-align: center;
+}
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+}
+h3 {
+    font-size: 1.3em;
+    font-weight: bolder;
+    color:  white;
+    text-align: center;
+ 
+}
+h4 {
+    font-size: .8em;
+    font-weight: normal;
+    color:aqua;
+    text-align: center;
+    text-transform: uppercase;
+
+
+}
+h5{
+    font-size: 12px;
+    font-style: italic;
+    font-weight: lighter;
+    color: white;
+    text-align: center;
+    line-height: 70%;
+
+}
+
+p{
+    font-size: 14px;
+    font-weight: lighter;
+    text-align: center;
+    line-height: 150%;
+    margin-top: 30px;
+}
+a{
+    font-size: 12px;
+    font-style: italic;
+    font-weight: lighter;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
